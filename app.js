@@ -10,4 +10,5 @@ function initApp() {
 
 function newProject() {
     console.log("Its working");
+    console.log("Arsenal taber pokalracen");
 } 
