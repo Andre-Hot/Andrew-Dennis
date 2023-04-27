@@ -17,4 +17,7 @@ function newProject() {
     console.log("new line 2");
     console.log("alsdjalsdjalsdjals");
     console.log("laksjlkjlahslfkjla");
+    console.log("Madrid is most probably winning Champions league");
+    console.log("Viniciuos jr is a legend");
+    console.log("foden, haaland, de bruyne");
 } 
