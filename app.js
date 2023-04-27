@@ -11,4 +11,5 @@ function initApp() {
 function newProject() {
     console.log("Its working");
     console.log("just adding a new line");
+    console.log("new line 2");
 } 
