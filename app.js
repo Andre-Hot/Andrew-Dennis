@@ -16,4 +16,5 @@ function newProject() {
     console.log("just adding a new line");
     console.log("new line 2");
     console.log("Madrid is most probably winning Champions league");
+    console.log("Viniciuos jr is a legend");
 } 
