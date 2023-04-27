@@ -11,4 +11,6 @@ function initApp() {
 function newProject() {
     console.log("Its working");
     console.log("Arsenal taber pokalracen");
+    console.log("City vinder pokalracen");
+    console.log("Messi kommer tilbage til Barca, I hope!!!");
 } 
